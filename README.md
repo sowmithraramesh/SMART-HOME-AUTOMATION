@@ -1,13 +1,12 @@
 # SMART-HOME-AUTOMATION
 Here’s a structured README file for your GitHub repository on **Home Automation with Arduino IoT Cloud using ESP32**:
 
----
 
 # Home Automation with Arduino IoT Cloud using ESP32
 
 This repository contains a project for implementing **Home Automation** using the **Arduino IoT Cloud** and an ESP32 microcontroller. The project allows you to control multiple home appliances such as lights, fans, or other devices remotely via the Arduino IoT Cloud Dashboard, accessible on both mobile and desktop platforms.
 
----
+
 
 ## Project Overview
 
@@ -19,7 +18,7 @@ The goal of this project is to create a smart home automation system using the *
 - Remote access using **WiFi** and ESP32.
 - Simple and customizable dashboard interface.
 
----
+
 
 ## Materials Required
 
@@ -31,7 +30,6 @@ The goal of this project is to create a smart home automation system using the *
 - **Connecting Wires**
 - **Breadboard**
 
----
 
 ## Circuit Diagram and Hardware Setup
 
@@ -48,7 +46,7 @@ The ESP32 GPIO pins used in this project are:
 
 The output of the relays is connected to bulbs for testing and demonstration purposes.
 
----
+
 
 ## Setting Up Arduino IoT Cloud Dashboard
 
@@ -67,7 +65,7 @@ Follow these steps to configure your Arduino IoT Cloud Dashboard:
    - Link each switch to a corresponding variable (e.g., Light1, Light2).
    - Arrange and resize widgets as desired.
 
----
+
 
 ## Source Code
 
