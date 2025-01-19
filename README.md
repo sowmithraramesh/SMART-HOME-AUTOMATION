@@ -55,6 +55,8 @@ Follow these steps to configure your Arduino IoT Cloud Dashboard:
 1. **Create a Thing**:
    - Go to the Arduino IoT Cloud interface and create a new Thing.
    - Add variables for each device (e.g., Light1, Light2, etc.).
+     ![image](https://github.com/user-attachments/assets/9a282672-fb79-4185-9b95-9093d2cad852)
+
    - Set each variable type to `bool` for ON/OFF control.
 
 2. **Set Up Network Credentials**:
